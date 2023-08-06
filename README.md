@@ -2,7 +2,7 @@
 
 - 🐱‍👤 Atualmente a área que tenho mais conhecimento, é na linguagem PYTHON e JAVA
 - 🐱‍💻 Estudando back-end | PYTHON  // JAVA /// C++ // RUBY.
-- 🌱 Estudando por conta própria
+- 🌱 Cursando 2° peíodo de Análise e Desenvolvimento de Sistemas
 - 🐱‍🏍 Email para contato: pedrohenriqueaf22@gmail.com
 
 <div align="center">

@@ -1,12 +1,19 @@
-### Olá! Muito prazer, meu nome é Pedro Henrique 😎
+# :man_technologist: Pedro Henrique A Ferreira
 
-- 🐱‍👤 Atualmente a área que tenho mais conhecimento, é na linguagem PYTHON e JAVA
-- 🐱‍💻 Estudando back-end | PYTHON  // JAVA /// C++ // RUBY.
-- 🌱 Cursando 2° peíodo de Análise e Desenvolvimento de Sistemas
-- 🐱‍🏍 Email para contato: pedrohenriqueaf22@gmail.com
+[![Hello World, I'm Pedro!](assets/header.gif)](https://github.com/Andradeus)
 
-<div align="center">
-  <a href="https://github.com/Andradeus%22%3E
-  <img width="43%" src="https://github-readme-stats.vercel.app/api?username=Andradeus&show_icons=false&theme=bearinclude_all_commits=true&count_private=true%22/%3E
-  <img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andradeus&layout=compact&langs_count=7&theme=dark%22/%3E
-</div>
+## Welcome! 👋
+
+My name is Pedro, I'm Brazilian living in California, acquiring more and more knowledge to work on big projects 
+
+- :man_technologist: I'm a Junior Developer
+- :joystick: Hobbies: Games(LoL, Souls Like and Jmmorpg),Animes and good music...
+
+## Main Tech Stack 💻
+[![Main Tech Stack](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
+
+## When I'm not coding 🎮
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)

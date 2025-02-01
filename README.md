@@ -1,7 +1,5 @@
 # :man_technologist: Pedro Henrique A Ferreira
 
-[![Hello World, I'm Pedro!](assets/header.gif)](https://github.com/Andradeus)
-
 ## Welcome! 👋
 
 My name is Pedro, I'm Brazilian living in California, acquiring more and more knowledge to work on big projects 

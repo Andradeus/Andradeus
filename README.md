@@ -16,12 +16,12 @@ I am a Business student driven by the intersection of **High-Stakes Finance**, *
 
 ## 📊 Featured Projects
 
-### [Automated Financial Health Analyzer](link-do-seu-repositorio)
+### [Automated Financial Health Analyzer]
 *A Python-based tool that extracts real-time SEC data via API to calculate key solvency and profitability ratios (Current Ratio, ROE, EBITDA Margin).*
 - **Tech:** Python, YFinance, Matplotlib.
 - **Concept:** Applied Corporate Finance & Ratio Analysis.
 
-### [SQL Market Database](link-do-seu-repositorio)
+### [SQL Market Database]
 *Relational database structure designed to store and query historical stock prices and macroeconomic indicators.*
 - **Tech:** SQL, SQLite.
 
@@ -38,7 +38,7 @@ I believe that the future of Investment Banking belongs to those who can bridge 
 
 ---
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) , ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) , 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 
 ## 📫 Connect with me:
 - **Email:** pedrohenriqueaf14@icloud.com
